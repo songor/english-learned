@@ -183,3 +183,33 @@ If unable to [do item] at this time please let us know what date to expect your 
 If you're facing any issues completing [\*\*\* / this stage], be sure to contact me. I will be happy to answer and resolve any issues you may have.
 
 I am happy to help if you have encountered any obstacles or you simply have some questions about it.
+
+### Deliver Bad News
+
+**Start with a buffer statement**
+
+Thank you for your email about ... dated ... / for your interest in ... / for bringing this to our attention.
+
+We are aware that / fully understand that ...
+
+**Give explanation, leading to the news**
+
+... will ... (only) when + [condition]
+
+According to the policy / procedure; Due to / Owning to the risk requirement / system blackout / upgrade
+
+**Deliver the bad news and offer alternatives**
+
+I regret to inform you / Unfortunately, / I'm afraid we are unable to ...
+
+In the meanwhile, I recommend / I suggest / you may as well ... / However, you can ...
+
+If + [condition], then + [action]
+
+**End with a positive or neutral statement**
+
+We hope you will find it useful. / Hope this clarifies your queries.
+
+Please / Feel free to write to me for any queries or concerns, or contact ...
+
+We look forward to + [noun] / [verb + ing]
