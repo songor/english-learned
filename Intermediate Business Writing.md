@@ -214,6 +214,64 @@ Please / Feel free to write to me for any queries or concerns, or contact ...
 
 We look forward to + [noun] / [verb + ing]
 
+### Meeting Minutes
+
+**Thank you and Summary**
+
+*Thank you*
+
+Thanks for taking the time to meet [about Topic] on [Date / Weekday].
+
+Thank you for joining the \*\*\* call on [Date / Weekday].
+
+*Summary*
+
+It was great to discuss [\*\*\* / detailed items] [and we appreciate your feedback / inputs / thoughts on \*\*\* problem / challenge].
+
+We've been working hard to [\*\*\* / solve a \*\*\* problem] and your [feedback / input / thought / observation] has been invaluable.
+
+This meeting was to [\*\*\* / get on the same page about our \*\*\* upcoming targets / activities / discuss any changes we can make / any steps we can take in the coming weeks to \*\*\* / help us meet the deployment plan].
+
+**MOM: Agreement & Action**
+
+*Meeting Minutes*
+
+Here are the main takeaways from our meeting.
+
+Let me summarize what we've discussed during the meeting.
+
+*People*
+
+Present / Absent
+
+*Conclusion / Agreement*
+
+We came to the conclusion that ... / We have agreed with / that ...
+
+As discussed / talked about / spoke about, moving forward we will ...
+
+After our discussions, [a \*\*\* strategy / action / policy / arrangement / initiative / process \*\*] has been put in place.
+
+*Action*
+
+The following projects / tasks and deadlines have been assigned.
+
+Below are the next steps we agreed upon.
+
+As next steps, I've outlined the following:
+
+In order to make this happen, our next steps will be [\*\*\*].
+
+[Action 1] - [Who] will complete by [Date].
+
+**Closing**
+
+Our next meeting will be on [\*\*\* Date] about the updates on each [\*\*\* task / project] assigned in the meeting today.
+
+We'll plan to meet / We agreed to meet on [Date] to discuss [\*\*\* / progress] [and we will share the meeting invite shortly].
+
+Please feel free to reach out with any questions and relevant updates in the meantime.
+
 ### Review a Task
 
 **Start with the purpose and context**
