@@ -228,11 +228,19 @@ The project has achieved / met / obtained (\*\*% of) the goal on schedule / \*\*
 
 *Key highlights*
 
-Actions: We / I've completed / launched / demised / automated / digitised / built / upgraded ...
+Actions (What's done): We / I've completed / launched / demised / automated / digitised / built / upgraded ...
 
-Results: Saved \*\*\* cost / Reduced the error rate to \*\* / Recorded an NPS of \*\*\*
+Results (What's achieved): Saved \*\*\* cost / Reduced the error rate to \*\* / Recorded an NPS of \*\*\*
 
 Impact: It includes new / enhanced features compared with previous version in \*\*\* [area] / the 1st ever \*\*\* product / platform / It surpasses all existing \*\*\* in \*\*\* [area]
+
+*Self Reflection (3Ls)*
+
+Learnt: I learnt / applied / experimented / enhanced / demonstrated / showed / found ... useful, rewarding
+
+Liked: I liked / enjoyed / was passionate about / indulged in / keen on / ambitious about
+
+Lacked: I lacked ... / struggled to / found ... difficult / was reluctant to / failed to / was afraid to
 
 **Plan the way forward**
 
