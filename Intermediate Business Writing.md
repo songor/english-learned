@@ -213,3 +213,35 @@ We hope you will find it useful. / Hope this clarifies your queries.
 Please / Feel free to write to me for any queries or concerns, or contact ...
 
 We look forward to + [noun] / [verb + ing]
+
+### Review a Task
+
+**Start with the purpose and context**
+
+I'm writing to share / I'd like to share a quick review of ... as we concluded / launched the project / The project went alive on + [date]
+
+Thanks for / I am grateful for your time / support / insights / thoughts ...
+
+**Review the task (action, result, impact)**
+
+The project has achieved / met / obtained (\*\*% of) the goal on schedule / \*\*\* days ahead of schedule / behind schedule.
+
+*Key highlights*
+
+Actions: We / I've completed / launched / demised / automated / digitised / built / upgraded ...
+
+Results: Saved \*\*\* cost / Reduced the error rate to \*\* / Recorded an NPS of \*\*\*
+
+Impact: It includes new / enhanced features compared with previous version in \*\*\* [area] / the 1st ever \*\*\* product / platform / It surpasses all existing \*\*\* in \*\*\* [area]
+
+**Plan the way forward**
+
+Going forward / Next time / In the future, I will / am going to ... / I'd like to ...
+
+Set regular check-ins / closely monitor the implement / collect user feedback / share weekly updates ...
+
+**Invite feedback, and / or seek support**
+
+Would you please also share your feekback on ...? I'd love to know what you think about ...
+
+Look forward to your continual support in future projects.
